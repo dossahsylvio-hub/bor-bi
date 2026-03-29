@@ -1,0 +1,60 @@
+{
+    "nav": {
+        "dashboard": "Tableau de bord",
+        "newSale": "J\u00ebfandikoo bu bees",
+        "stock": "Stock",
+        "clients": "Xam-xam",
+        "orders": "Commandes Grossistes",
+        "messages": "Xibaarukaay",
+        "logout": "Dem",
+        "catalogue": "Catalogue",
+        "manageOrders": "Commandes yi"
+    },
+    "common": {
+        "save": "D\u00ebkk",
+        "cancel": "B\u00e0yyi",
+        "delete": "Fey",
+        "edit": "Soppi",
+        "add": "Yokk",
+        "search": "Seet",
+        "loading": "Dafa dem...",
+        "error": "Am na nj\u00ebkk",
+        "success": "Dafa m\u00ebn",
+        "confirm": "Seetlu",
+        "back": "Dellu",
+        "next": "Kanam",
+        "send": "Y\u00f3nnee",
+        "close": "T\u00ebj",
+        "yes": "Waaw",
+        "no": "D\u00e9ed\u00e9et",
+        "online": "Ci internet",
+        "offline": "Xam-xam rekk",
+        "fcfa": "FCFA",
+        "all": "Y\u00e9pp"
+    },
+    "auth": {
+        "login": "Dugg",
+        "register": "Bindal sa xel",
+        "email": "Email",
+        "phone": "Telefon",
+        "password": "Mbindeem",
+        "businessName": "Tur sa d\u00ebkk",
+        "vendor": "J\u00ebfandikoo",
+        "wholesaler": "Grossiste"
+    },
+    "sale": {
+        "title": "J\u00ebfandikoo bu bees",
+        "selectClient": "Tann xam-xam",
+        "cart": "Panier",
+        "total": "Y\u00e9pp",
+        "pay": "Fey",
+        "paid": "Fey na",
+        "partial": "D\u00ebkk na ci kanam",
+        "unpaid": "Fey du",
+        "saleComplete": "J\u00ebfandikoo dafa d\u00ebkk",
+        "consent": "Maa ngi seetlu ne xam-xam bi xam na ko"
+    },
+    "warning": {
+        "vendor": "\u26a0\ufe0f Bor-Bi dafa tool ci gestion. Xaalis bu d\u00ebkk dafa dem ci kanam."
+    }
+}

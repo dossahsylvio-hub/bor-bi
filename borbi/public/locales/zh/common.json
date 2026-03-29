@@ -1,0 +1,58 @@
+{
+    "nav": {
+        "dashboard": "\u4eea\u8868\u677f",
+        "newSale": "\u65b0\u9500\u552e",
+        "stock": "\u5e93\u5b58",
+        "clients": "\u5ba2\u6237",
+        "orders": "\u6279\u53d1\u8ba2\u5355",
+        "messages": "\u6d88\u606f",
+        "logout": "\u9000\u51fa\u767b\u5f55",
+        "catalogue": "\u76ee\u5f55",
+        "manageOrders": "\u7ba1\u7406\u8ba2\u5355"
+    },
+    "common": {
+        "save": "\u4fdd\u5b58",
+        "cancel": "\u53d6\u6d88",
+        "delete": "\u5220\u9664",
+        "edit": "\u7f16\u8f91",
+        "add": "\u6dfb\u52a0",
+        "search": "\u641c\u7d22",
+        "loading": "\u52a0\u8f7d\u4e2d...",
+        "error": "\u53d1\u751f\u9519\u8bef",
+        "success": "\u6210\u529f",
+        "confirm": "\u786e\u8ba4",
+        "back": "\u8fd4\u56de",
+        "next": "\u4e0b\u4e00\u6b65",
+        "send": "\u53d1\u9001",
+        "close": "\u5173\u95ed",
+        "yes": "\u662f",
+        "no": "\u5426",
+        "online": "\u5728\u7ebf",
+        "offline": "\u79bb\u7ebf",
+        "fcfa": "\u975e\u6d32\u6cd5\u90ce",
+        "all": "\u5168\u90e8"
+    },
+    "auth": {
+        "login": "\u767b\u5f55",
+        "register": "\u6ce8\u518c",
+        "email": "\u7535\u5b50\u90ae\u4ef6",
+        "phone": "\u7535\u8bdd",
+        "password": "\u5bc6\u7801",
+        "confirmPassword": "\u786e\u8ba4\u5bc6\u7801",
+        "businessName": "\u4f01\u4e1a\u540d\u79f0",
+        "vendor": "\u9500\u552e\u5546",
+        "wholesaler": "\u6279\u53d1\u5546",
+        "loginSuccess": "\u767b\u5f55\u6210\u529f",
+        "invalidCredentials": "\u90ae\u7bb1\u6216\u5bc6\u7801\u9519\u8bef"
+    },
+    "sale": {
+        "title": "\u65b0\u9500\u552e",
+        "paid": "\u5df2\u4ed8\u6b3e",
+        "partial": "\u90e8\u5206\u4ed8\u6b3e",
+        "unpaid": "\u672a\u4ed8\u6b3e",
+        "voiceInput": "\u8bed\u97f3\u8f93\u5165\u9500\u552e"
+    },
+    "warning": {
+        "vendor": "\u26a0\ufe0f Bor-Bi \u662f\u7ba1\u7406\u5de5\u5177\u3002\u5b9e\u9645\u4ea4\u6613\u5728\u5e94\u7528\u7a0b\u5e8f\u5916\u8fdb\u884c\u3002"
+    }
+}
